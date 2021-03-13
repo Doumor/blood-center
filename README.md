@@ -48,6 +48,6 @@ After that you will need to configure the site manually. Change the design, unde
 
 ## License / Лицензия
 
-It will be FLOSS, but a lot of the code will be from my other proprietary projects. There is also a chance that there will be code from an open mobile client of one of these projects, but it just hasn't even started yet. In any case, it will most likely be BSD license.
+It will be [FLOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software), but a lot of the code will be from my other proprietary projects. There is also a chance that there will be code from an open mobile client of one of these projects, but it just hasn't even started yet. In any case, it will most likely be BSD license.
 <br><br>
-Это будет FLOSS, но много кода будет из других моих проприетарных проектов. Есть так же вероятность, что будет код из открытого мобильного клиента одного из таких проектов, но только он пока даже не начат. В любом случае, скорее всего это будет лицензия BSD.
+Это будет [FLOSS](https://ru.wikipedia.org/wiki/Свободное_и_открытое_программное_обеспечение), но много кода будет из других моих проприетарных проектов. Есть так же вероятность, что будет код из открытого мобильного клиента одного из таких проектов, но только он пока даже не начат. В любом случае, скорее всего это будет лицензия BSD.
