@@ -44,7 +44,7 @@ Start it up / Запускаем
 
 After that you will need to configure the site manually. Change the design, understand what needs to be added to it. This is a task for your programmer. By the way, I can do it myself if you pay me for it. In any case, if I do not get money from it, I will abandon the development.
 <br><br>
-После этого нужно будет настроить сайт уже вручную. Изменить дизайн, понять то, что необходимо в него добавить. Это задача для вашего программиста. К слому, я могу это сделать сам, если вы заплатите мне за это. В любом случае, если я не буду получать денег с этого, то я заброшу разработку.
+После этого нужно будет настроить сайт уже вручную. Изменить дизайн, понять то, что необходимо в него добавить. Это задача для вашего программиста. К слову, я могу это сделать сам, если вы заплатите мне за это. В любом случае, если я не буду получать денег с этого, то я заброшу разработку.
 
 ## License / Лицензия
 
